@@ -1,2 +1,3 @@
-# kartavyakhandelwal
-this is my first GIT repository.
+# Kartavya Khandelwal
+This is my first GIT repository.
+Welcome to GITHUB
